@@ -1,0 +1,4 @@
+1.0.1 2026-11-17
+  - Technical: duplicate copy of all files under sourcedata/reexport to force a fresh public S3 export (1.0.0 files were not downloadable). No data change; will be removed in the next version.
+1.0.0 2026-11-16
+  - first commit
